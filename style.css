@@ -1,0 +1,33 @@
+corpo {
+cor de fundo: #1D4221;
+cor: branco;
+família da fonte: "Bai Jamjuree", sem serifa;
+exibição: flex;
+justificar conteúdo: centralizar;
+alinhar itens: centralizar;
+altura: 700px;
+margem: 0;
+}
+
+botão {
+cor de fundo: #64A712;
+cor: branco;
+família da fonte: "Bai Jamjuree", sem serifa;
+}
+
+.passo {
+display: none;
+}
+
+.passo.ativo {
+display:bloco;
+}
+
+principal {
+alinhamento de texto: centro;
+largura máxima: 90%;
+}
+
+img {
+largura máxima: 90%;
+}
